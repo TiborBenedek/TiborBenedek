@@ -1,6 +1,9 @@
 # Hi, I'm Tibor 👋
 
-Junior Data Analyst focused on Python, SQL, and data analysis 📊
+Junior Data Analyst focused on Python, SQL, and data analysis 📊  
+Passionate about turning data into insights and building real-world data projects.
+
+💼 Open to junior data analyst opportunities
 
 Currently building data analysis projects and continuously improving my Python and SQL skills.
 
@@ -17,11 +20,11 @@ Tools and technologies I use for data analysis:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## Data Analysis Focus
 
-Areas I am currently focusing on:
+Key areas of focus:
 
 - Exploratory Data Analysis (EDA)
 - SQL data analysis
@@ -62,13 +65,30 @@ Technologies:
 
 ---
 
+## Tableau Data Visualization Projects
+
+### Airbnb Revenue Analysis Dashboard
+
+Interactive Tableau dashboard analyzing Airbnb listings, pricing, and revenue trends.
+
+Links:
+- 🔗 [GitHub Repository](https://github.com/TiborBenedek/airbnb-revenue-dashboard)
+- 🌐 [Live Dashboard](https://public.tableau.com/app/profile/tibor.benedek/viz/AirbnbRevenueAnalysisDashboard/AirbnbListingsRevenueDashboard)
+
+Technologies:
+- Tableau
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+Key Insights:
+- Revenue is driven more by demand (number of listings) than price.
+- Listings with more bedrooms have higher average price but lower total revenue.
+- Revenue shows a stable upward trend over time.
+  
+---
+
 ## Contact
 
-LinkedIn  
-🔗 [Tibor Benedek](https://www.linkedin.com/in/tibor-benedek-002646364)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tibor-benedek-002646364)
 
-## GitHub Stats
 
-![Tibor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiborBenedek&show_icons=true&theme=default&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiborBenedek&layout=compact&theme=default)
